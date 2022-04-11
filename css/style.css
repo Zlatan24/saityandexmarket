@@ -1,0 +1,20 @@
+.form-control {
+    background-color: white;
+    border-color: #ffd800;
+}
+.row {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.d-grid {
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.d-flex {
+    width: 15cm;
+}
+.btn-group {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
